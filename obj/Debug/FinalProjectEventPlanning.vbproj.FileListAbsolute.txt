@@ -1,0 +1,14 @@
+c:\users\climber\documents\visual studio 2015\Projects\FinalProjectEventPlanning\FinalProjectEventPlanning\bin\Debug\FinalProjectEventPlanning.exe.config
+c:\users\climber\documents\visual studio 2015\Projects\FinalProjectEventPlanning\FinalProjectEventPlanning\bin\Debug\FinalProjectEventPlanning.exe
+c:\users\climber\documents\visual studio 2015\Projects\FinalProjectEventPlanning\FinalProjectEventPlanning\bin\Debug\FinalProjectEventPlanning.pdb
+c:\users\climber\documents\visual studio 2015\Projects\FinalProjectEventPlanning\FinalProjectEventPlanning\bin\Debug\FinalProjectEventPlanning.xml
+c:\users\climber\documents\visual studio 2015\Projects\FinalProjectEventPlanning\FinalProjectEventPlanning\obj\Debug\FinalProjectEventPlanning.vbprojResolveAssemblyReference.cache
+c:\users\climber\documents\visual studio 2015\Projects\FinalProjectEventPlanning\FinalProjectEventPlanning\obj\Debug\FinalProjectEventPlanning.AboutForm.resources
+c:\users\climber\documents\visual studio 2015\Projects\FinalProjectEventPlanning\FinalProjectEventPlanning\obj\Debug\FinalProjectEventPlanning.MainForm.resources
+c:\users\climber\documents\visual studio 2015\Projects\FinalProjectEventPlanning\FinalProjectEventPlanning\obj\Debug\FinalProjectEventPlanning.Resources.resources
+c:\users\climber\documents\visual studio 2015\Projects\FinalProjectEventPlanning\FinalProjectEventPlanning\obj\Debug\FinalProjectEventPlanning.vbproj.GenerateResource.Cache
+c:\users\climber\documents\visual studio 2015\Projects\FinalProjectEventPlanning\FinalProjectEventPlanning\obj\Debug\FinalProjectEventPlanning.exe
+c:\users\climber\documents\visual studio 2015\Projects\FinalProjectEventPlanning\FinalProjectEventPlanning\obj\Debug\FinalProjectEventPlanning.xml
+c:\users\climber\documents\visual studio 2015\Projects\FinalProjectEventPlanning\FinalProjectEventPlanning\obj\Debug\FinalProjectEventPlanning.pdb
+c:\users\climber\documents\visual studio 2015\Projects\FinalProjectEventPlanning\FinalProjectEventPlanning\obj\Debug\FinalProjectEventPlanning.CateringForm.resources
+c:\users\climber\documents\visual studio 2015\Projects\FinalProjectEventPlanning\FinalProjectEventPlanning\obj\Debug\FinalProjectEventPlanning.GuestsForm.resources
